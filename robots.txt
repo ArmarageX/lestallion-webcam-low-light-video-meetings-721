@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://armaragex.github.io/lestallion-webcam-low-light-video-meetings-721/sitemap.xml
